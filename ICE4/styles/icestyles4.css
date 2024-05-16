@@ -1,0 +1,43 @@
+body{
+    
+    background-color: #5ca1d7;
+}
+
+    
+img{
+    width: 30%;
+    display: block;
+    margin:0 auto;
+    padding: 3%;
+}
+
+h1{
+    font-size:360%;
+}
+
+h1:hover{
+    color: black;
+}
+.top{
+    color: white;
+    text-align: center;
+}
+
+ol{
+    width: 30%;
+    margin:0 auto;
+}
+blockquote{
+    color: white;
+    font-size: 1.7em;
+    max-width: 250px ;
+    margin: 0 auto;
+    padding: 5%;
+}
+
+.bottom{
+    text-align: center;
+}
+.nelson{
+    font-size: 1.2em ;
+}
