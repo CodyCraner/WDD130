@@ -1,0 +1,62 @@
+#content{
+    max-width: 1600px;
+    margin: 0 auto;
+    text-align: center;
+}
+#background {
+    height: 725px;
+    background-color: aqua;
+    color: black;
+}
+body{
+    background-color: #8BBEB2 ;
+    color: slateblue;
+}
+header{
+    background-color: #18314F ;
+    border: 5px;
+    color: blueviolet;
+nav a{
+    text-decoration: none;
+
+}
+
+}
+nav a:hover{
+    background-color: #E6F9AF;
+    color: darkcyan;
+}
+#hero{
+    padding: 5%;
+}
+
+footer{
+    background-color: #0D0630;
+    color: #E6F9AF;
+    font-size: 1.2em;
+    text-align: left;
+}
+.msg{
+    background-color: white;
+    color: #0D0630;
+    text-decoration: none;
+
+    font-size: 1.3em;
+}
+
+.join{
+    background-color: #E6F9AF;
+    color: indigo;
+    text-decoration: none;
+}
+.book{
+    background-color: #E6F9AF;
+    color: indigo;
+
+}
+.icon{
+    width: 80px ;
+    }
+.logo{
+    width: 80px;
+}
