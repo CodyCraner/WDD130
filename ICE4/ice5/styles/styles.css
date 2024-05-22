@@ -1,0 +1,27 @@
+#title{
+    width: 100%;
+    
+}
+
+body{
+    background-color: gray;
+    margin: 0  auto;
+
+}
+img.circle{
+    width: 13%;
+    text-align: center;
+    border-radius: 50%;
+    border: 8px solid black;
+    
+}
+
+footer{
+    padding-top: 2%;
+}
+
+footer, .circle{
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 6%;
+}
